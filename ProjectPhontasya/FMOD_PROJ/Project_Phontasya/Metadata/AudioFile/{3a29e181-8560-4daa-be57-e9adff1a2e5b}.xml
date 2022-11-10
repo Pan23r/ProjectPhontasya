@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{3a29e181-8560-4daa-be57-e9adff1a2e5b}">
+		<property name="assetPath">
+			<value>Kingdom Hearts Concert - First Breath - Traverse Town.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>184.04137499999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ffa445c5-eb7d-4d81-b0e4-12230e871ae7}</destination>
+		</relationship>
+	</object>
+</objects>

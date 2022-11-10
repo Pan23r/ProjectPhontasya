@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{36b06200-3ff8-4098-afa3-9cbc8587ad4f}">
+		<property name="assetPath">
+			<value>La Canzone di Five Nights at Freddy's [SUB-ITA].mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>177.8677551020408</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ffa445c5-eb7d-4d81-b0e4-12230e871ae7}</destination>
+		</relationship>
+	</object>
+</objects>

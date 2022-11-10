@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{783a0cb1-8121-4d96-b448-030756d208a3}">
+		<property name="assetPath">
+			<value>Courage - The Legend of Zelda - Twilight Princess.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>82.233479166666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ffa445c5-eb7d-4d81-b0e4-12230e871ae7}</destination>
+		</relationship>
+	</object>
+</objects>

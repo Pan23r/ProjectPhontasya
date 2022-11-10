@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e1b98ec2-cc6d-422f-9bb8-1c1fd4e611da}">
+		<property name="assetPath">
+			<value>Korok Forest (Night) - The Legend of Zelda - Breath of the Wild Soundtrack.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>204.77679166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ffa445c5-eb7d-4d81-b0e4-12230e871ae7}</destination>
+		</relationship>
+	</object>
+</objects>

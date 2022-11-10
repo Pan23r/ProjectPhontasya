@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{757f8ced-b826-4a7c-b611-692424a57f0d}">
+		<property name="name">
+			<value>GameSoundtrackParameter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6fe3274e-857a-401f-b0e4-f8a60126cb0a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bac5b3a7-0e24-4f76-a1f8-bdcebfa256f0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bac5b3a7-0e24-4f76-a1f8-bdcebfa256f0}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Menu</value>
+			<value>Game_Forest_Soundtrack</value>
+			<value>City_Soundtrack</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

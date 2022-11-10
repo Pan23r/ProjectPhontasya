@@ -1,0 +1,5 @@
+<data>
+  <audio Volume="1" />
+  <camera VelocityCamera="20" InvertY="false" />
+  <graphic Resolution="2" />
+</data>
